@@ -1,9 +1,11 @@
-# Builds
+<p align="center"><img src="media/banner.png" width="100%" alt="Builds: robots, a hand-wound electric motor and other hardware I have designed and made"></p>
 
-**Physical things I've designed and built by hand: walking robots, an electric motor, electronics and production 3D prints.**
+**What it is.** A gallery of physical things I have designed and built by hand: walking robots, an electric motor, electronics and production 3D prints.
+
+**Why it matters.** My software is written for hardware I build myself. These are the machines it runs on, from the first hand-cut aluminium prototype onward.
 
 ![Six-legged walking robot, current build](media/hexapod-v2.jpg)
-*The hexapod: a six-legged walking robot with a 3D-printed frame and legs I designed in Onshape. Its control software is [hexapod-rl](https://github.com/tardigraderesearch/hexapod-rl).*
+*The hexapod: a six-legged walking robot with a 3D-printed frame and legs I designed in Onshape. Its walking software is [hexapod-rl](https://github.com/tardigraderesearch/hexapod-rl).*
 
 | | |
 |---|---|
